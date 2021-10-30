@@ -1,0 +1,72 @@
+1-D Arrays
+------------
+	* Basic array operations (Insert, delete and search an element)
+	* Smallest and largest element in an array
+	* Sum of elements in an array
+	* Check if two arrays are the same or not
+	* Finding the array type
+	* Sum of positive square elements in an array
+	* Second smallest element in an array
+	* Sorting the elements of an array
+	* Reversing an array
+	* Longest palindrome in an array
+	* Count distinct elements of an array
+	* Print all distinct elements in an array
+	* Non-repeating elements of an array
+	* Repeating elements in an array
+	* Remove duplicate elements in an array
+	* Minimum scalar product of two vectors
+	* Maximum scalar product of two vectors
+	* Can the numbers of an array be made equal?
+	* Missing elements of a range
+	* Triplets with a given sum
+	* Frequency of each element of an array
+	* Symmetric pairs in an array
+	* Maximum product subarray in a given array
+	* Arrays are disjoint or not
+	* Array is a subset of another array or not
+	* Can all numbers of an array be made equal
+	* Minimum sum of absolute difference of given array
+	* Sorting elements of an array by frequency
+	* Sort an array according to the order defined by another array
+	* Replace each element of the array by its rank in the array
+	* Equilibrium index of an array
+	* Array rotation Left and right
+	* Block swap algorithm for array rotation
+	* Juggling algorithm for array rotation
+	* Circular rotation of an array by K positions
+	* Convert an array into a zig-zag fashion
+	* Merge two sorted arrays
+	* Longest subarray having an average greater than or equal to k
+	* Rearrange positive and negative numbers in an array
+	* Sum of all odd frequency elements in an array
+	* Median of two sorted arrays
+	* 0-1 Knapsack problem
+	* K'th smallest element in an unsorted array
+
+2-D Arrays
+----------
+	* Matrix operations (Addition and subtraction)
+	* Transpose of a matrix
+	* Upper triangular matrix or not
+	* Lower triangular matrix or not
+	* The maximum element in a row
+	* The maximum element in a column
+	* Sum of each row and column of a matrix
+	* Saddle point coordinates of a given matrix
+	* Sum of elements in the zig-zag sequence of a matrix
+	* Sum of boundary elements of a matrix
+	* Matrix printing in a spiral form
+	* Rotate the matrix by K times
+	* Matrix rotation by 90 degrees clockwise and anticlockwise
+	* Maximum size of square submatrix with all 1s in a binary matrix
+	* Find missing number in an array
+	* search an element in a sorted and rotated array in java
+	* Find second largest number in array
+	* Find number occurring odd number of times in array
+	* Minimum numbers of platforms required for railway station in java
+	* Find pair whose sum is closest to zero in array in java
+	* Find pair whose sum is closest to X in array in java
+	* Find all pairs of elements whose sum is equal to given number
+	* Search element in row wise and column wise sorted matrix
+	* Stock buy and sell to maximize profit.
